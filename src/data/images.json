@@ -1,0 +1,19 @@
+{
+    "images": [
+        {
+            "country": "England",
+            "image": "/public/images/catHotdog.png",
+            "alt": "Image 1"
+        },
+        {
+            "country": "China",
+            "image": "/public/images/greenPlanet.png",
+            "alt": "Image 1"
+        },
+        {
+            "country": "Norway",
+            "image": "/public/images/magicalValley.png",
+            "alt": "Image 1"
+        }
+    ]
+}

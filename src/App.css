@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+h1 {
+margin: 5px 0;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.brownBg {
+  background-color: brown;
+}
+
+.greenBg {
+  background-color: rgb(42, 165, 85);
+}
